@@ -14,7 +14,7 @@ The programme will show you what kind of problems are solved at Tata Insights an
 
 
 
-- How it works
+## How it works
 1. Complete tasks guided by pre-recorded videos and example answers from our team at Tata Group. No live sessions, all self-paced.
 2. Earn a certificate and add it to your resume and LinkedIn as an extra curricular activity.
 3. Stand out in applications. Confidently answer interview questions and explain why you’re a good fit for our team.
